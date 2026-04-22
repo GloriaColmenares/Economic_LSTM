@@ -15,9 +15,9 @@
 
 Paper revision: 22.04.2026
 
-1. Improved each model new models are in python
-2. Added SLURM detailed logs
+1. Improved each model, new models are in python
+2. Added SLURM detailed logs (too heavy for github though will check it out how to compress)
 3. Make sure the codes are comparing the same dates for fair comparison of metrics
-4 Added diagnostics
-5.
-
+4. Added diagnostics
+5. Status 22.04.2026 : still need to add the file for a diagnostics table and the sarmax_exog_1_4_model output
+6. post_processing also improved
